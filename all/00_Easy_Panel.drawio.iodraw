@@ -880,7 +880,7 @@
           <mxGeometry x="100" y="100" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="110" width="20" height="20" as="geometry" />
+          <mxGeometry x="110" y="110" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
