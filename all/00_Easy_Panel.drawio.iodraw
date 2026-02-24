@@ -864,7 +864,7 @@
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CpCzSOLt_bGdN5TqzB5K-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="81" as="sourcePoint" />
-            <mxPoint x="480" y="80" as="targetPoint" />
+            <mxPoint x="320" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;direction=south;" vertex="1" parent="1">
@@ -904,7 +904,7 @@
           <mxGeometry x="390" y="185" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="250" width="20" height="30" as="geometry" />
+          <mxGeometry x="390" y="244" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
