@@ -1020,26 +1020,26 @@
           <mxGeometry x="270" y="285" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-94" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="386" width="20" height="30" as="geometry" />
+          <mxGeometry x="270" y="385" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-95" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="445" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="162" as="sourcePoint" />
-            <mxPoint x="360" y="302" as="targetPoint" />
+            <mxPoint x="200" y="160" as="sourcePoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="302" />
+              <mxPoint x="200" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="401" as="sourcePoint" />
-            <mxPoint x="360" y="401" as="targetPoint" />
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="360" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="401" />
+              <mxPoint x="200" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
