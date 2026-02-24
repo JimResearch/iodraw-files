@@ -848,7 +848,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gPeEbYZeNkOaWt5_GgLf" name="Page-5 gas supply">
-    <mxGraphModel dx="683" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1102,7 +1102,7 @@
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-113" value="" style="endArrow=none;html=1;rounded=0;entryX=0.709;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CpCzSOLt_bGdN5TqzB5K-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="80" as="sourcePoint" />
+            <mxPoint x="480" y="60" as="sourcePoint" />
             <mxPoint x="1090" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="480" y="200" />
@@ -1111,7 +1111,7 @@
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-114" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CpCzSOLt_bGdN5TqzB5K-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="80" as="sourcePoint" />
+            <mxPoint x="650" y="60" as="sourcePoint" />
             <mxPoint x="631" y="210" as="targetPoint" />
             <Array as="points">
               <mxPoint x="650" y="120" />
