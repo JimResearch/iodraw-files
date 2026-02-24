@@ -1007,6 +1007,51 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-91" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="211" as="sourcePoint" />
+            <mxPoint x="1235" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-92" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="196" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-93" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="256" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-94" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="316" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-95" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="375" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="211" as="sourcePoint" />
+            <mxPoint x="1235" y="271" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1075" y="271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="271" as="sourcePoint" />
+            <mxPoint x="1235" y="331" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1075" y="331" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="330" as="sourcePoint" />
+            <mxPoint x="1235" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1075" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
