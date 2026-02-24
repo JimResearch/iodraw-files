@@ -895,21 +895,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="351" y="65" width="20" height="30" as="geometry" />
+          <mxGeometry x="390" y="65" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="351" y="130" width="20" height="30" as="geometry" />
+          <mxGeometry x="390" y="130" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="351" y="194" width="20" height="30" as="geometry" />
+          <mxGeometry x="390" y="194" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="351" y="259" width="20" height="30" as="geometry" />
+          <mxGeometry x="390" y="259" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="80" as="sourcePoint" />
-            <mxPoint x="730" y="380" as="targetPoint" />
+            <mxPoint x="480" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
