@@ -882,7 +882,7 @@
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
           <mxGeometry x="230" y="65" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CpCzSOLt_bGdN5TqzB5K-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="CpCzSOLt_bGdN5TqzB5K-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="80" as="sourcePoint" />
             <mxPoint x="360" y="340" as="targetPoint" />
@@ -892,7 +892,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
-          <mxGeometry x="230" y="145" width="20" height="30" as="geometry" />
+          <mxGeometry x="230" y="325" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
