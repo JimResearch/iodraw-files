@@ -848,7 +848,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gPeEbYZeNkOaWt5_GgLf" name="Page-5 gas supply">
-    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -978,7 +978,7 @@
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="161" as="sourcePoint" />
-            <mxPoint x="1080" y="280" as="targetPoint" />
+            <mxPoint x="1080" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="840" y="290" />
             </Array>
@@ -1027,7 +1027,7 @@
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="278" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="sourcePoint" />
             <mxPoint x="360" y="418" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="418" />
