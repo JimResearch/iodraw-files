@@ -985,7 +985,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-76" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="681" y="290" width="50" height="60" as="geometry" />
+          <mxGeometry x="700" y="290" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="CpCzSOLt_bGdN5TqzB5K-76">
           <mxGeometry width="40" height="40" as="geometry" />
@@ -1111,6 +1111,9 @@
               <mxPoint x="720" y="120" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-115" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
+          <mxGeometry x="959" y="115" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
