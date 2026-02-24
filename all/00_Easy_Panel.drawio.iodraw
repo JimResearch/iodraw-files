@@ -868,7 +868,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="430" y="120" width="50" height="84" as="geometry" />
+          <mxGeometry x="540" y="130" width="50" height="84" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-43" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="65" y="295" width="30" height="30" as="geometry" />
