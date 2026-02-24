@@ -1083,7 +1083,10 @@
           <mxGeometry x="10" y="10" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-106" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
-          <mxGeometry x="959" y="115" width="20" height="30" as="geometry" />
+          <mxGeometry x="188" y="64" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-107" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
+          <mxGeometry x="278" y="64" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
