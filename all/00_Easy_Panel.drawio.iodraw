@@ -810,14 +810,14 @@
         </mxCell>
         <mxCell id="rhqmkumhlanMGV-gLYM9-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="rhqmkumhlanMGV-gLYM9-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="540.12" as="sourcePoint" />
+            <mxPoint x="840" y="540" as="sourcePoint" />
             <mxPoint x="1040" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rhqmkumhlanMGV-gLYM9-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="rhqmkumhlanMGV-gLYM9-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="420" as="sourcePoint" />
-            <mxPoint x="920" y="420" as="targetPoint" />
+            <mxPoint x="840" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rhqmkumhlanMGV-gLYM9-47" value="&lt;b&gt;CA&lt;/b&gt;&lt;div&gt;&lt;b&gt;[ - ]&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rhqmkumhlanMGV-gLYM9-1">
@@ -841,7 +841,7 @@
         <mxCell id="rhqmkumhlanMGV-gLYM9-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="rhqmkumhlanMGV-gLYM9-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="420.12" as="sourcePoint" />
-            <mxPoint x="1240" y="420" as="targetPoint" />
+            <mxPoint x="1320" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
