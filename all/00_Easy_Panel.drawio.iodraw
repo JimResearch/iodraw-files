@@ -900,6 +900,12 @@
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
           <mxGeometry x="310" y="105" width="20" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
+          <mxGeometry x="320" y="75" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
+          <mxGeometry x="320" y="115" width="20" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
