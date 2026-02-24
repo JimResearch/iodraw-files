@@ -879,6 +879,9 @@
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#000000;" vertex="1" parent="CpCzSOLt_bGdN5TqzB5K-43">
           <mxGeometry x="10" y="10" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
