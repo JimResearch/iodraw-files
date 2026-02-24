@@ -909,7 +909,10 @@
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="80" as="sourcePoint" />
-            <mxPoint x="480" y="150" as="targetPoint" />
+            <mxPoint x="480" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
