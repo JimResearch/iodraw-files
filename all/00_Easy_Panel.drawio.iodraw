@@ -861,7 +861,7 @@
             <mxPoint x="360" y="80.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpCzSOLt_bGdN5TqzB5K-14" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-14" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry y="340" width="720" height="340" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-27" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
