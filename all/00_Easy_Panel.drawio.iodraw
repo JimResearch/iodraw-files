@@ -868,7 +868,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="654" y="140" width="50" height="84" as="geometry" />
+          <mxGeometry x="695" y="140" width="50" height="84" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-43" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="65" y="295" width="30" height="30" as="geometry" />
@@ -1105,10 +1105,10 @@
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-114" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CpCzSOLt_bGdN5TqzB5K-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="679" y="60" as="sourcePoint" />
-            <mxPoint x="660" y="210" as="targetPoint" />
+            <mxPoint x="720" y="60" as="sourcePoint" />
+            <mxPoint x="701" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="679" y="120" />
+              <mxPoint x="720" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
