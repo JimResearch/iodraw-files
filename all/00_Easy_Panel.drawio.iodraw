@@ -848,7 +848,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gPeEbYZeNkOaWt5_GgLf" name="Page-5 gas supply">
-    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -868,7 +868,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="520" width="60" height="100" as="geometry" />
+          <mxGeometry x="500" y="550" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-43" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="65" y="126" width="30" height="30" as="geometry" />
