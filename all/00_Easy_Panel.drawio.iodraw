@@ -1074,7 +1074,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-103" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="75" y="274" width="30" height="30" as="geometry" />
+          <mxGeometry x="70" y="65" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpCzSOLt_bGdN5TqzB5K-104" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="CpCzSOLt_bGdN5TqzB5K-103">
           <mxGeometry width="30" height="30" as="geometry" />
