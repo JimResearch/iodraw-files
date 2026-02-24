@@ -888,6 +888,12 @@
             <mxPoint x="730" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CpCzSOLt_bGdN5TqzB5K-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CpCzSOLt_bGdN5TqzB5K-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="130" as="sourcePoint" />
+            <mxPoint x="270" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
