@@ -17,7 +17,7 @@
           <mxGeometry x="256" y="420" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-5" value="安全PLC&lt;div&gt;安全信号&lt;/div&gt;&lt;div&gt;台架 Level3 电控制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="516" y="250" width="244" height="110" as="geometry" />
+          <mxGeometry x="520" y="250" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.964;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4Yt3mUJNA3bTpU90M_Qf-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,7 +64,7 @@
           <mxGeometry x="315" y="120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-17" value="安全信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="220" height="110" as="geometry" />
+          <mxGeometry x="520" y="420" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Yt3mUJNA3bTpU90M_Qf-17" target="4Yt3mUJNA3bTpU90M_Qf-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
