@@ -10,7 +10,7 @@
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-2" value="PLC&lt;div&gt;执行机构控制&lt;/div&gt;&lt;div&gt;信号采集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="250" width="340" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-3" value="执行机构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-3" value="执行机构&lt;div&gt;电机&lt;/div&gt;&lt;div&gt;阀&lt;/div&gt;&lt;div&gt;电子负载&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="420" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-4" value="传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
