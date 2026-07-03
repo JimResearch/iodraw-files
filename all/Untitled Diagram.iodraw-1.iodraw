@@ -10,7 +10,7 @@
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-2" value="PLC&lt;div&gt;执行机构控制&lt;/div&gt;&lt;div&gt;信号采集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="250" width="340" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-3" value="执行机构&lt;div&gt;&lt;div&gt;电机&lt;/div&gt;&lt;div&gt;阀&lt;/div&gt;&lt;div&gt;电子负载&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-3" value="执行机构&lt;div&gt;&lt;div&gt;电机&lt;/div&gt;&lt;div&gt;阀&lt;/div&gt;&lt;div&gt;电子负载&lt;/div&gt;&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="420" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-4" value="传感器&lt;div&gt;温度&lt;/div&gt;&lt;div&gt;压力&lt;/div&gt;&lt;div&gt;露点&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -63,7 +63,7 @@
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-16" value="CAN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="120" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-17" value="安全信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-17" value="安全信号&lt;div&gt;氢浓度&lt;/div&gt;&lt;div&gt;风量&lt;/div&gt;&lt;div&gt;烟感&lt;/div&gt;&lt;div&gt;急停&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Yt3mUJNA3bTpU90M_Qf-17" target="4Yt3mUJNA3bTpU90M_Qf-5">
