@@ -19,12 +19,14 @@
         <mxCell id="4Yt3mUJNA3bTpU90M_Qf-5" value="安全PLC&lt;div&gt;安全信号&lt;/div&gt;&lt;div&gt;台架 Level3 电控制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="250" width="244" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Yt3mUJNA3bTpU90M_Qf-1" target="4Yt3mUJNA3bTpU90M_Qf-2">
+        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="450" as="sourcePoint" />
-            <mxPoint x="440" y="400" as="targetPoint" />
+            <mxPoint x="166" y="201" as="sourcePoint" />
+            <mxPoint x="251" y="251" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="166" y="220" />
+              <mxPoint x="166" y="221" />
+              <mxPoint x="210" y="221" />
+              <mxPoint x="250" y="221" />
             </Array>
           </mxGeometry>
         </mxCell>
