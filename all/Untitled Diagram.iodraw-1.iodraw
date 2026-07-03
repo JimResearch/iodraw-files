@@ -72,8 +72,8 @@
             <mxPoint x="346" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-19" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="209" width="60" height="30" as="geometry" />
+        <mxCell id="4Yt3mUJNA3bTpU90M_Qf-19" value="EtherCat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
