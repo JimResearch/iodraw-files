@@ -10,9 +10,6 @@
         <mxCell id="Pxqn23DPZT0FRJjNkGvv-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11980;points=[[0.5,0,0],[0.5,1,0]];direction=south;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="365.09" y="193.91" width="50.12" height="29.16" as="geometry" />
         </mxCell>
-        <mxCell id="Pxqn23DPZT0FRJjNkGvv-7" value="" style="shape=mxgraph.pid.vessels.container,_tank,_cistern;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="300" width="100" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
