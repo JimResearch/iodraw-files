@@ -16,11 +16,14 @@
             <mxPoint x="100" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pxqn23DPZT0FRJjNkGvv-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Pxqn23DPZT0FRJjNkGvv-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Pxqn23DPZT0FRJjNkGvv-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230.00000000000006" y="120" as="sourcePoint" />
             <mxPoint x="70" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Pxqn23DPZT0FRJjNkGvv-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
