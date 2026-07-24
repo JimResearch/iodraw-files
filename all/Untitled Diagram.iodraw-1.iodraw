@@ -10,8 +10,11 @@
         <mxCell id="Kr6zjS6vcubjatIt99fl-2" value="HIOKI LCR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kr6zjS6vcubjatIt99fl-3" value="HIOKI LCR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Kr6zjS6vcubjatIt99fl-3" value="UPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kr6zjS6vcubjatIt99fl-4" value="UPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
