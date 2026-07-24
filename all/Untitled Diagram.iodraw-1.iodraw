@@ -16,8 +16,8 @@
         <mxCell id="Kr6zjS6vcubjatIt99fl-4" value="SERVO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kr6zjS6vcubjatIt99fl-5" value="IPC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="410" width="120" height="120" as="geometry" />
+        <mxCell id="Kr6zjS6vcubjatIt99fl-9" value="SERVO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
